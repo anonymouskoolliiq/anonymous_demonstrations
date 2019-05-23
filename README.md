@@ -12,4 +12,4 @@
 * [Vanilla PPO agent on seen environment](https://youtu.be/SSlTl-Y1Vpw)
 * [Vanilla PPO agent on unseen environment](https://youtu.be/8-y5q292nVM)
 * [Our agent on seen environment](https://youtu.be/HMVIK8rVeug)
-* [Our agent on unseen environment](https://youtu.be/O_jjo7A2Cz8): https://youtu.be/O_jjo7A2Cz8
+* [Our agent on unseen environment](https://youtu.be/O_jjo7A2Cz8)
