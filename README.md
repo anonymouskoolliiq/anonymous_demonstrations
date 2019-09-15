@@ -1,4 +1,4 @@
-# Demonstrations for submission 1270
+# Demonstrations
 
 ## CoinRun
 
